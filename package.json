@@ -15,9 +15,9 @@
   "author": "Forge Partner Development",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "*",
+    "body-parser": "1.19.2",
     "config": "^3.2.2",
-    "express": "*",
+    "express": "4.17.3",
     "forge-apis": "*",
     "forge-model-derivative": "*",
     "forge-oauth2": "*",
