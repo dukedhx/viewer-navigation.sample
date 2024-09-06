@@ -16,9 +16,9 @@
   "license": "MIT",
   "dependencies": {
     "body-parser": "*",
-    "config": "^3.2.2",
+    "config": "^3.3.9",
     "express": "*",
-    "forge-apis": "*",
+    "forge-apis": "0.9.0",
     "forge-model-derivative": "*",
     "forge-oauth2": "*",
     "request": "*",
