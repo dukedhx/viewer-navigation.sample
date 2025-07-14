@@ -21,7 +21,7 @@
     "forge-apis": "*",
     "forge-model-derivative": "*",
     "forge-oauth2": "*",
-    "request": "*",
+    "request": "2.88.2",
     "serve-favicon": "*"
   },
   "engines": {
